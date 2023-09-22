@@ -1,31 +1,7 @@
 # Crypto Swap Ethereum
 
-A crypto swap for Ethereum Blockchain. Made by ZiLab.
+A crypto swap for Ethereum Blockchain. Made by ZiLab Technologies.
 
-Telegram: zilab_technologies
-## Project setup
+If you are interested in launching your own DEX on Ethereum blockchain, contact our Support Team:
 
-### Installation
-
-Install dependencies
-
-```bash
-npm install
-```
-
-### Development
-
-Serve with hot reload at localhost:3000
-
-```bash
-npm run start
-```
-
-### Deployment
-
-To test the result in your local environment, build for production and launch server with:
-
-```bash
-npm run build
-npm run preview
-```
+Telegram: https://t.me/zilab_technologies
